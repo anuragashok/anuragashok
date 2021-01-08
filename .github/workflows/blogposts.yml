@@ -1,0 +1,22 @@
+# This is a basic workflow to help you get started with Actions
+
+name: blogposts
+
+# Controls when the action will run. 
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          url: 'https://theoverengineered.blog/rss.xml'
+          file: 'README.md'
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master

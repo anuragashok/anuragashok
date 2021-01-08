@@ -1,4 +1,4 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://cdn.jsdelivr.net/gh/anuragashok/anuragashok/banner.jpg)
 
 I enjoy all things code and am particularly passionate about automation and "everything as code". In my 8+ years of making code work, I have experimented with several languages but focused primarily on java microservices and the javascript ecosystem.
 

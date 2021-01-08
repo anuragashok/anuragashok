@@ -10,9 +10,9 @@
 ### Where to find me  
 
 <p align="left">
-<a href="https://dev.to/anuragashok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anuragashok" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anuragashok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anuragashok" height="30" width="40" /></a>
-<a href="https://medium.com/anuragashok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="anuragashok" height="30" width="40" /></a>
+<a href="https://dev.to/anuragashok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anuragashok" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/anuragashok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anuragashok" height="60" width="80" /></a>
+<a href="https://medium.com/anuragashok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="anuragashok" height="60" width="80" /></a>
 </p>
 
 ### Latest Posts from my blog

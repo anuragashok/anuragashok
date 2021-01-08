@@ -1,6 +1,6 @@
 ![](./banner.svg)
 
-#### I enjoy all things code and am particularly passionate about automation and "everything as code". In my 8+ years of making code work, I have experimented with several languages but focused primarily on java microservices and the javascript ecosystem.
+### I enjoy all things code and am particularly passionate about automation and "everything as code". In my 8+ years of making code work, I have experimented with several languages but focused primarily on java microservices and the javascript ecosystem.
 
 Skills: java, javascript, react, docker, k8s
 

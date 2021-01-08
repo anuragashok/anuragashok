@@ -10,7 +10,7 @@ Skills: java, javascript, react, docker, k8s
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/anuragashok)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anurag-ashok/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://anuragashok.medium.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev-dot-to' height='40'>](https://dev.to/anuragashok)  
 
-### Latest Posts
+### Latest Posts from my blog
 <!-- feed start -->
 - Jan 03 - [Use Docker for local development](https://theoverengineered.blog/posts/use-docker-for-local-development)
 - Dec 27 - [Generate RSS and Sitemap for Next.js JAMstack site](https://theoverengineered.blog/posts/generate-rss-and-sitemap-for-nextjs-jamstack-site)

@@ -1,0 +1,202 @@
+{
+    "basics": {
+      "name": "Anurag Ashok",
+      "label": "Lead Software Engineer",
+      "image": "",
+      "email": "anurag16890@gmail.com",
+      "phone": "9022567065",
+      "url": "https://www.anuragashok.com",
+      "summary": "Results-driven Software Engineer with 11+ years of experience in backend systems, microservices, and automation at scale, currently leading projects at Grab. Expertise in streamlining processes and driving automation to deliver measurable operational improvements. Known for reducing complexity and improving team efficiency through innovative solutions. Adept at leading cross-functional teams and integrating new technologies to deliver business value.",
+      "location": {
+        "city": "Singapore",
+        "countryCode": "SG"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "anurag-ashok",
+          "url": "https://www.linkedin.com/in/anurag-ashok"
+        },
+        {
+          "network": "Portfolio",
+          "username": "anuragashok",
+          "url": "https://www.anuragashok.com"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Grab",
+        "position": "Lead Software Engineer",
+        "url": "https://www.grab.com",
+        "startDate": "2024-04-01",
+        "summary": "Leading engineering efforts at Grab to drive automation and simplify processes across Southeast Asia's leading everyday everything app.",
+        "highlights": [
+          "Led key automation initiatives that reduced operational overhead by 20%, increased system efficiency by 30%, and improved deployment speed by 25%.",
+          "Developed scalable microservices for Grab’s mobility, logistics, and financial services, resulting in a 99.9% uptime for critical services.",
+          "Collaborated with cross-functional teams to integrate new technologies, resulting in a 15% improvement in cross-team efficiency and project delivery."
+        ]
+      },
+      {
+        "name": "Singapore Airlines",
+        "position": "Assistant Manager Application Services",
+        "url": "https://www.singaporeair.com",
+        "startDate": "2018-10-01",
+        "endDate": "2021-07-01",
+        "summary": "Led the development and maintenance of highly performant and scalable Spring Boot microservices, fulfilling critical business requirements for seatmap, instant fares, and COVID-19 refund handling. Played a key role in modernizing the airline's technology stack by migrating monolithic and JBoss Fuse applications to a microservices-based architecture on OpenShift.",
+        "highlights": [
+          "Designed and implemented Spring Boot microservices, meeting key business needs for seatmap, instant fares, and COVID-19 refund processes.",
+          "Converted monolithic and JBoss Fuse workloads to Spring Boot microservices on OpenShift, improving scalability and flexibility.",
+          "Reviewed, monitored, and enhanced microservice performance, boosting responsiveness and reliability.",
+          "Consolidated and enhanced common libraries, handling logging, data masking, auditing, and configuration management.",
+          "Configured detailed monitoring and reporting for microservices using Splunk, improving observability and issue resolution.",
+          "Created tools and scripts to streamline developer workflows, reducing manual effort and improving efficiency.",
+          "Designed and implemented a custom continuous integration pipeline, ensuring faster and more reliable deployments.",
+          "Automated routine tasks like SVN to Git migration and microservice onboarding, improving team productivity."
+        ]
+      },
+      {
+        "name": "MITS Global Consulting (Client: BNP Paribas Corporate and Institutional Banking)",
+        "position": "Senior Software Engineer",
+        "url": "https://www.mitsglobal.com",
+        "startDate": "2016-12-01",
+        "endDate": "2018-09-01",
+        "summary": "Led the redesign and renewal of core banking functionalities using RedHat JBoss Fuse, significantly enhancing the scalability and reliability of BNP Paribas' systems. Developed batch processing systems for payment workflows and built proof of concepts to ensure JBoss Fuse met the application’s requirements.",
+        "highlights": [
+          "Redesigned core banking functionalities using RedHat JBoss Fuse 6.3, meeting strict performance and reliability requirements.",
+          "Developed batch processing systems for payments using Apache Camel, ActiveMQ, CXF, and Quartz, improving transaction processing efficiency.",
+          "Installed and configured JBoss Fuse with Fabric8 for clustered environments on RHEL servers, ensuring high availability and fault tolerance.",
+          "Conducted proof-of-concept evaluations to validate the suitability of JBoss Fuse for the bank's technical needs.",
+          "Gained a strong understanding of payment systems, including payment engine mechanics and interchange protocols."
+        ]
+      },
+      {
+        "name": "Tata Consultancy Services",
+        "position": "Systems Engineer",
+        "url": "https://www.tcs.com",
+        "startDate": "2013-02-01",
+        "endDate": "2016-12-01",
+        "summary": "Worked extensively on frontend development and backend services for TCS's Employee Self Service Portal, serving over 350,000 employees. Played a key role in introducing automation using Jenkins, Maven, SonarQube, and Docker, transforming the project with DevOps practices.",
+        "highlights": [
+          "Developed and maintained frontend applications using AngularJS and backend services with Spring, enhancing user experience and system reliability.",
+          "Introduced DevOps practices by implementing Jenkins, Maven, SonarQube, and Docker, automating build and deployment processes.",
+          "Managed infrastructure, handling Apache, WebLogic, and JBoss servers to ensure seamless application operations.",
+          "Enhanced a Java Server Faces application, addressing critical usability and performance issues.",
+          "Gained hands-on experience with NoSQL databases (Redis) and Oracle 11g while managing large datasets."
+        ]
+      },
+      {
+        "name": "Self-Employed",
+        "position": "Freelance Web Developer",
+        "startDate": "2012-05-01",
+        "endDate": "2013-01-01",
+        "summary": "Specialized in custom web development using PHP and Drupal for clients across the USA, India, South Africa, and Europe. Delivered tailored solutions through custom module and theme development for diverse business needs.",
+        "highlights": [
+          "Developed custom Drupal modules and themes for international clients, delivering high-quality, customized solutions on time.",
+          "Worked with clients across multiple geographies, ensuring strong communication and project delivery aligned with client expectations.",
+          "Managed full-stack web development projects from concept to delivery, ensuring 100% client satisfaction."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "St. Francis Institute of Technology",
+        "url": "https://www.sfitengg.org",
+        "area": "Information Technology",
+        "studyType": "Bachelor of Engineering",
+        "startDate": "2008-01-01",
+        "endDate": "2012-01-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Backend Development",
+        "level": "Expert",
+        "keywords": [
+          "Golang",
+          "Java",
+          "Spring Boot",
+          "Microservices",
+          "API Development"
+        ]
+      },
+      {
+        "name": "Software Engineering",
+        "level": "Expert",
+        "keywords": [
+          "Distributed Systems",
+          "System Design",
+          "Code Quality & Refactoring",
+          "Code UX",
+          "Continuous Improvement",
+          "Testing"
+        ]
+      },
+      {
+        "name": "Problem Solving",
+        "level": "Expert",
+        "keywords": [
+          "Product Analysis",
+          "Solution Design",
+          "Designing Scalable Solutions",
+          "Critical Thinking"
+        ]
+      },
+      {
+        "name": "DevOps & Automation",
+        "level": "Proficient",
+        "keywords": [
+          "CI/CD Pipelines",
+          "Docker",
+          "Kubernetes",
+          "Jenkins",
+          "Terraform",
+          "GitOps",
+          "Ansible"
+        ]
+      },
+      {
+        "name": "Frontend Development",
+        "level": "Proficient",
+        "keywords": [
+          "Next.js",
+          "JavaScript",
+          "React.js",
+          "Responsive Design"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Full Professional"
+      },
+      {
+        "language": "Hindi",
+        "fluency": "Full Professional"
+      },
+      {
+        "language": "Marathi",
+        "fluency": "Professional Working"
+      },
+      {
+        "language": "Malayalam",
+        "fluency": "Elementary"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Process Automation"
+      },
+      {
+        "name": "Everything as Code"
+      },
+      {
+        "name": "Simplification"
+      },
+      {
+        "name": "CI/CD"
+      }
+    ]
+  }
+  

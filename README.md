@@ -1,14 +1,25 @@
-![](./banner.svg)
+![Hello World](./hello-world-banner.svg)
 
-### I enjoy all things code and am particularly passionate about automation and "everything as code". 
-### In my 8+ years of making code work, I have experimented with several languages but focused primarily on java microservices and the javascript ecosystem.
+### Hi there, I'm **Anurag Ashok**
+
+Lead Software Engineer with **11+ years** of experience turning complex problems into simple, reliable code.
+
+I thrive on automation and the "everything as code" philosophy. Over the years I've explored numerous languages but gravitate toward Java, Golang, and the JavaScript ecosystem.
 
 ---
 
-- I’m currently working on https://theoverengineered.blog/ 
-- I’m currently learning React & Next.js 
-  
-### Where to find me  
+- Leading engineering efforts at **Grab**.
+- Writing about automation and developer productivity at [theoverengineered.blog](https://theoverengineered.blog/).
+- Forever tinkering with new tech (lately **React** & **Next.js**).
+
+### Technologies & Tools
+
+- Java, Golang, Spring Boot
+- Microservices & Distributed Systems
+- Docker, Kubernetes, CI/CD
+- React, Next.js
+
+### Where to find me
 
 <p align="left">
 <a href="https://linkedin.com/in/anuragashok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anuragashok" height="45" width="60" /></a>
@@ -32,4 +43,11 @@
 > You use a combination of science, art, and craft to determine what to do with them. 
 >  
 > -Andrew Hunt                                  
+
+
+<details>
+<summary>Regenerate banner</summary>
+
+Run `node generate-banner.js` to rebuild the SVG banner.
+</details>
 

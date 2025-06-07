@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220">
+<style>
+svg { background:#000; }
+text { font-family:'Fira Code', monospace; fill:#00FF00; font-size:30px; }
+</style>
+<defs>
+
+<clipPath id="clip0">
+  <rect x="392" y="48" width="0" height="35">
+    <animate attributeName="width" from="0" to="216" dur="2s" begin="0s" fill="freeze" />
+  </rect>
+</clipPath>
+
+<clipPath id="clip1">
+  <rect x="356" y="83" width="0" height="35">
+    <animate attributeName="width" from="0" to="288" dur="2s" begin="2s" fill="freeze" />
+  </rect>
+</clipPath>
+
+<clipPath id="clip2">
+  <rect x="239" y="118" width="0" height="35">
+    <animate attributeName="width" from="0" to="522" dur="2s" begin="4s" fill="freeze" />
+  </rect>
+</clipPath>
+
+<clipPath id="clip3">
+  <rect x="365" y="153" width="0" height="35">
+    <animate attributeName="width" from="0" to="270" dur="2s" begin="6s" fill="freeze" />
+  </rect>
+</clipPath>
+</defs>
+<text x="50%" y="75" text-anchor="middle" clip-path="url(#clip0)">Hello World!</text>
+<text x="50%" y="110" text-anchor="middle" clip-path="url(#clip1)">I'm Anurag Ashok</text>
+<text x="50%" y="145" text-anchor="middle" clip-path="url(#clip2)">Lead Software Engineer @ Grab</text>
+<text x="50%" y="180" text-anchor="middle" clip-path="url(#clip3)">Automation Nerd</text>
+</svg>
